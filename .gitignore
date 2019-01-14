@@ -1,5 +1,5 @@
 Banana_Linux/
-*.ipynb
+.idea/*
 __pycache__
 todo.txt
 unity-environment.log

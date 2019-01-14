@@ -28,7 +28,7 @@ pip install -r requirement.txt
 ```
 3. clone the repo
 ```
-pip install -r requirement.txt
+git clone git@github.com:ulamaca/DRLND_P1_Navigation.git
 ```
 4. Follow the instructions to download the environment from the [Getting Started](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation) section in Udacity DRLND repo.
 

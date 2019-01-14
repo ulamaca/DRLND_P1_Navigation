@@ -1,0 +1,12 @@
+Banana_Linux/
+*.ipynb
+__pycache__
+todo.txt
+unity-environment.log
+results/intro.txt
+results/*exploration
+
+data/*
+!data/dddqn-1
+
+

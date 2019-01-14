@@ -26,8 +26,11 @@ The task is episodic, and in order to solve the environment, your agent must get
 ```
 pip install -r requirement.txt
 ```
-
-3. Follow the instructions to download the environment from the [Getting Started](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation) section in Udacity DRLND repo.
+3. clone the repo
+```
+pip install -r requirement.txt
+```
+4. Follow the instructions to download the environment from the [Getting Started](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation) section in Udacity DRLND repo.
 
 ### Instructions
 1. To train a DQN agent from scratch, execute in the command line:
@@ -48,6 +51,7 @@ python run.py -h
 python plot.py -l model1,model2...
 ```
 *Note that if you would like to test a model with mutliple training runs, please name your experiment follwoing the convention: model-name-i (i is the run no.) so that the program can compute the average over all the trials. 
+
 3. To see how your favorite agent plays, use
 ```
 python play.py -p path/to/model-params 
